@@ -1,0 +1,10 @@
+{
+   "name": "msg-server-socket",
+   "version": "0.0.1",
+   "description": "websocket server for messenger api",
+   "dependencies": {
+      "eslint": "^5.15.1",
+      "express": "^4.16.4",
+      "socket.io": "^2.2.0"
+   }
+}
