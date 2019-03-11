@@ -9,3 +9,4 @@ Start the server
 ```
 node index.js
 ```
+Verify the service is running - http://localhost:3001
